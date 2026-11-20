@@ -10,15 +10,12 @@ Objectives
 - Analyze monthly humidity trends.
 - Analyze monthly wind speed trends.
 - Compare average temperatures across five cities.
-- Visualize weather patterns using graphs.
 
 Technologies Used
 
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 - Google Colab
 
 Dataset
@@ -34,11 +31,10 @@ Analysis Performed
 3. Humidity trend analysis.
 4. Wind speed trend analysis.
 5. Temperature comparison across five cities.
-6. Combined weather trend dashboard.
 
 Conclusion
 
-This project demonstrates the use of Python for data cleaning, analysis, and visualization of historical weather data.
+This project demonstrates the use of Python for data cleaning, analysis of historical weather data.
 
 Author
 
